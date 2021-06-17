@@ -1,0 +1,13 @@
+{
+    "baseUrl": "http://34.116.208.40/",
+    "supportFile": "cypress/support/index.js",
+  "retries": {
+    "runMode": 2,
+    "openMode": 0
+},
+  "env": {
+    "clientId": "97ec1eb2-9b17-4619-956d-3b0cdf23d0f5",
+    "clientSecret": "5VhsFCVBtfHyXzgQkg676ph5cST7jSqN2pJyBw8VPTNcBKUw",
+    "accessToken": ""
+  }
+}
